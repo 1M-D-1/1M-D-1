@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @1M-D-1
-- 👀 I’m interested in ... becoming a free man
-- 🌱 I’m currently learning ... everything from scratch 
-- 💞️ I’m looking to collaborate on ... freedom from financial slavery
-- 📫 How to reach me ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... I am a master Electrician and Lineman that is tired of filling everyone elses pockets.
+- 👋 Hi, I AM Nobody
+- 👀 I’m interested in ... becoming free
+- 🌱 I’m currently learning ... to translate
+- 💞️ I’m looking to collaborate on ... Everything
+- 📫 How to reach me ... nobody@eyeamnobody.com
+- 😄 Pronouns: ... Nobody
+- ⚡ Fun fact: ... I am a Master Electrician and Energy director
 
 <!---
 1M-D-1/1M-D-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
