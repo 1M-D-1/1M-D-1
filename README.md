@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... becoming free
 - 🌱 I’m currently learning ... to translate
 - 💞️ I’m looking to collaborate on ... Everything
-- 📫 How to reach me ... nobody@eyeamnobody.com
+- 📫 How to reach me ... iam@nativecurrency.org
 - 😄 Pronouns: ... Nobody
 - ⚡ Fun fact: ... I am a Master Electrician and Energy director
 
